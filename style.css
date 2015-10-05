@@ -1,0 +1,35 @@
+#header h1{
+	font-family:Tahoma;
+	font-size:48px;
+	text-align: center;
+	color:#780000;
+}
+@font-face {
+ 	font-family: 'IndieFlower';
+ 	src: url('IndieFlower.ttf') format('truetype');
+}
+#text{
+	font-size: 48px;
+	margin: 10px 0px;
+}
+h2{
+	font-family: IndieFlower;	
+	font-weight: bold;
+	text-shadow:  1px 1px 2px black, 0 0 1em red,
+	0 0 0.2em red;
+	text-align: center;
+}
+p{
+	font-size: .5em;
+	letter-spacing: 2px;
+	word-spacing: 10px;
+	line-height: 150%;
+	width:1250px;
+	margin: auto;
+	font-family: IndieFlower;
+}
+body{
+	background-image: url("http://wallpapers55.com/wp-content/uploads/2013/10/Antique-Background-1024x640.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
